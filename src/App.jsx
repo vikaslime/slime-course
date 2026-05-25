@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Sparkles, Star, Zap, CheckCircle2, MessageCircle, Gift, PlayCircle, Heart, ChevronDown } from 'lucide-react';
 
-const CTA_LINK = 'https://t.me/your_channel';
+const CTA_LINK = 'https://t.me/slimewowchallenge_bot';
 
 const problems = [
   'Дитина щодня просить нові розваги',
